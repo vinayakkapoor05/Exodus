@@ -3,6 +3,9 @@
 ## Game Overview  
 **Exodus** is a thrilling 2D vertical platformer where you control a rocket fleeing the unstoppable blast of a supernova. Navigate through celestial hazards, conserve limited resources, and strategically interact with cosmic bodies to ascend as high as possible while staying ahead of the devastating explosion.  
 
+## Gameplay
+![Image](https://imgur.com/DH94fn2.jpg)
+
 ## Objective  
 Survive as long as you can by climbing higher and avoiding dangers, all while managing energy and health in an increasingly perilous cosmic environment.  
 
@@ -91,7 +94,5 @@ Survive as long as you can by climbing higher and avoiding dangers, all while ma
 2. Open the project in Unity (2022.3.47f1 or above).
 3. Build and play directly or export for your preferred platform.
 
-## Gameplay
-![Image](https://imgur.com/DH94fn2.jpg)
 
 
